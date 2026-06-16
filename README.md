@@ -12,4 +12,4 @@ Technologies Used
 
 Future improvements
 
-    All thats left is configuring BGP for ISP-A and configuring ISP-B
+    All thats left is configuring OSPF, BGP, CGNAT for ISP-A and configuring ISP-B
